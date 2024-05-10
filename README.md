@@ -1,2 +1,2 @@
-# pirispfinal
-Final Paper for my Independent Study Project on the Private Information Retrival (PIR) problem
+# ISP on PIR
+This repo contains my final paper for my independent study project on the private information retrival (PIR) problem. This paper puts together all the published work I read on the PIR problem. I'd like to thank Professor Ariel Hamlin for mentoring my through this independent study and providing useful guidance. The paper exposed to me to the research process in cryptography and I am excited to continue working in this field.
